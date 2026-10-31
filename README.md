@@ -124,4 +124,5 @@ else:
     plt.axis("off")
     plt.show()
 ```
-<img width="967" height="827" alt="image" src="https://github.com/user-attachments/assets/30e3da20-8898-4943-8803-f4fdeba2de7b" />
+<img width="1357" height="781" alt="image" src="https://github.com/user-attachments/assets/60196d8b-9c9a-4940-9159-1d38fb1067a5" />
+
